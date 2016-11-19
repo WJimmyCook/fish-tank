@@ -1,0 +1,12 @@
+.img-logo{
+    max-height: 50px;
+    padding: 5px 15px 5px 5px;
+}
+
+a {
+    color: #26ADE4;
+}
+
+.navbar .nav>li>a {
+    font-size: 14px;
+}
